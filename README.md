@@ -1,2 +1,3 @@
 # New Project
-this projecct was created from locals syatem
+this projecct was created from locals syatem.
+Created by SHUBHAM KUMAR
